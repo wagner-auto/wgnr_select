@@ -1,0 +1,21 @@
+{
+  "name": "select2_wgnr",
+  "authors": [
+    "deli13 <death13life@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "^4.0.8"
+  }
+}
